@@ -18,7 +18,7 @@ import java.util.Locale;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Colllog Shout"
+	name = "Collection Log Shout"
 )
 public class ColllogShoutPlugin extends Plugin
 {
